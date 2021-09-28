@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: verdana, sans-serif;
+}
+#number2 {
+    color: royalblue;
+    font-size: 36px;
+}
+#number3 {
+    font-size: 24px;
+}
+#number4 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}

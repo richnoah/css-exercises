@@ -1,0 +1,13 @@
+
+.firstClickMe, .secondClickMe {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+  }
+
+.firstClickMe {
+    background-color: black;
+    color:  white;
+}
+.secondClickMe {
+    background-color: yellow;
+}
